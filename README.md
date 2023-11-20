@@ -1,4 +1,4 @@
 # newRepo
 This is my first git repo
 <br>
-author- yogesh shirodkar
+author- yogesh shirodkar(web developer)
